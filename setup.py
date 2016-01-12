@@ -22,6 +22,7 @@ setup(
     name="transitions",
     version=__version__,
     description="A lightweight, object-oriented Python state machine implementation.",
+    long_description=open('README.md').read(),
     author='Tal Yarkoni',
     author_email='tyarkoni@gmail.com',
     url='http://github.com/tyarkoni/transitions',
